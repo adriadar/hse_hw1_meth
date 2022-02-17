@@ -19,6 +19,7 @@
 ##### b)
 ![table](https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/task_2b_table.png)
 
+Бонус: ! ls SRR*.bam | xargs -P 3 -tI{} deduplicate_bismark  --bam  --paired  -o s_{} {}
 
 ##### c) 
 в ноутбуке
