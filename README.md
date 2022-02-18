@@ -7,7 +7,7 @@
 [html отчет](https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/8_cell_SRR5836473_1_bismark_bt2_pe_fastqc.html)
 Полученные результаты я сравнивала с [отчетом](https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/SRR3414629_1_fastqc.html) о секвенировании РНК, который был взят из одного из прошлых дз.
 
-РНК <img src=<https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/rna1.png  width="100" height="100">
+РНК <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/rna1.png  width="100" height="100">
 
 8 Cell ![](https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/8cell1.png)
 
