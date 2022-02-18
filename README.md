@@ -6,7 +6,7 @@
 
 [html отчет](https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/8_cell_SRR5836473_1_bismark_bt2_pe_fastqc.html)
 
-Какие особенности можно наблюдать по сравнению с секвенированием ДНК или РНК?
+![](https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/rna1.png) ![](https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/8cell1.png)
 
 ### Задание 2.
 
