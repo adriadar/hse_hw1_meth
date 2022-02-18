@@ -8,6 +8,7 @@
 Полученные результаты я сравнивала с [отчетом](https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/SRR3414629_1_fastqc.html) о секвенировании РНК, который был взят из одного из прошлых дз.
 
 РНК ![](https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/rna1.png)
+
 8 Cell ![](https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/8cell1.png)
 
 ### Задание 2.
