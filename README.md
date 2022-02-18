@@ -11,6 +11,14 @@
 
 <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/rna1.png  width="500" height="400"> <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/8cell1.png width="500" height="400">
 
+<img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/rna2.png  width="500" height="400"> <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/8cell2.png width="500" height="400">
+
+<img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/rna3.png  width="500" height="400"> <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/8cell3.png width="500" height="400">
+
+<img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/rna4.png  width="500" height="400"> <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/8cell4.png width="500" height="400">
+
+<img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/rna5.png  width="500" height="400"> <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/8cell5.png width="500" height="400">
+
 ### Задание 2.
 
 [colab notebook](https://colab.research.google.com/drive/1k0hE1HbzEUAjVCHYPe1QuxYnOPQlw_VD?usp=sharing)
