@@ -15,9 +15,15 @@
 
 <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/rna2.png  width="400" height="400"> <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/8cell2.png width="400" height="400">
 
+**Per base sequence content:** у образца SRR5836473_1 пропорции всех оснований почти не изменяются (у ДНК так и должно быть), только в начале рида процент G существенно выше, а процент T существенно ниже. Образец SRR3414629_1 отличается неравномерным распределение в начале рида.
+
 <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/rna3.png  width="400" height="400"> <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/8cell3.png width="400" height="400">
 
+**Per sequence GC content:** У образца SRR3414629_1 распределение процента GC близко к нормальному распределению (так и должно быть). У образца SRR5836473_1 распределение отличается от нормального. У него существенно преобладает количество ридов с небольшим процентом GC.
+
 <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/rna4.png  width="400" height="400"> <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/8cell4.png width="400" height="400">
+
+
 
 <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/rna5.png  width="400" height="400"> <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/8cell5.png width="400" height="400">
 
