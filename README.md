@@ -9,11 +9,11 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; РНК &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 8 Cell
 
-<img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/rna1.png  width="500" height="400"> <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/8cell1.png width="500" height="400">
+<img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/rna1.png  width="400" height="400"> <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/8cell1.png width="400" height="400">
 
-<img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/rna2.png  width="500" height="400"> <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/8cell2.png width="500" height="400">
+<img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/rna2.png  width="400" height="400"> <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/8cell2.png width="400" height="400">
 
-<img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/rna3.png  width="500" height="400"> <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/8cell3.png width="500" height="400">
+<img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/rna3.png  width="400" height="400"> <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/8cell3.png width="400" height="400">
 
 <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/rna4.png  width="500" height="400"> <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/8cell4.png width="500" height="400">
 
