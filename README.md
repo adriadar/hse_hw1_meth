@@ -52,8 +52,13 @@
 [html отчет для Epiblast](https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/epiblast_SRR3824222_1_bismark_bt2_PE_report.html)
 
 ##### e)
+
 ![table](https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/hist_8cell.png)
 ![table](https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/hist_icm.png)
 ![table](https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/hist_epiblast.png)
 
-##### f)
+**8 Cell:** у большинства цетозинов процент метилирования равен нулю, но так же есть довольно большая часть, у которой процент метилирования приближен к 100.
+
+**ICM:** у большей половины цетозинов процент метилирования равен 0.
+
+**Epiblast:** у большей часть цетозинов процент митилирования равен 100.
