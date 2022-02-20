@@ -23,9 +23,11 @@
 
 <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/rna4.png  width="400" height="400"> <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/8cell4.png width="400" height="400">
 
-
+**Sequence Length Distribution:** У образца SRR3414629_1 все последовательности примерно одинаковой длины (64-66), у образца SRR5836473_1 большое количество последовательностей длины больше 130.
 
 <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/rna5.png  width="400" height="400"> <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/8cell5.png width="400" height="400">
+
+**Sequence Duplication Levels:** Графики дедуплицированных последовательностей у обоих образцов примерно одинаковые. А вот графики дуплицированных последовательностей среди всех послеовательностей отличаются: у образца SRR5836473_1 процент ридов снижается с увеличение количества повторений, потом происходит небольшое повыщение процента дуплицированных ридов, потом процентр ридов не изменяется. У образца SRR3414629_1 сначала процент ридов, которые повторяются небольшое число раз высокий, потом снижается, после этого тоже происходят скачки графика, но они больш, так что данный образец имеет больше дуплицированных ридов, с большим числом повторений.
 
 ### Задание 2.
 
