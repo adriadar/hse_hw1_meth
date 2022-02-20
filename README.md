@@ -51,9 +51,9 @@
 
 [html отчет для Epiblast](https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/epiblast_SRR3824222_1_bismark_bt2_PE_report.html)
 
-+ m bias плот и его описание
 ##### e)
-
-
+![table](https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/hist_8cell.png)
+![table](https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/hist_icm.png)
+![table](https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/hist_epiblast.png)
 
 ##### f)
