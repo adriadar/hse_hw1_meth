@@ -9,8 +9,9 @@
 Полученные результаты я сравнивала с [отчетом](https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/SRR3414629_1_fastqc.html) о секвенировании РНК, который был взят из одного из прошлых дз.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  РНК &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 8 Cell
-
 <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/rna1.png  width="400" height="400"> <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/8cell1.png width="400" height="400">
+
+Per sequence quality scores: у образца SRR5836473_1 наблюдается скачок на графике при большом среднем значении качества, однако потом график опять понижается. Это означает, что большинство ридов имеют высокое среднее качество, но очень выкокое имеют меньшее число ридов. У образца SRR3414629_1 такого снижения не наблюдается.
 
 <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/rna2.png  width="400" height="400"> <img src=https://github.com/adriadar/hse_hw1_meth/blob/main/images%20and%20reports/8cell2.png width="400" height="400">
 
